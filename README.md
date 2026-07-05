@@ -4,7 +4,7 @@ A simple and responsive Color Picker application built with React. Users can sel
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app/
+[https://your-vercel-link.vercel.app/](https://react-color-picker-murex.vercel.app/)
 
 ## Features
 
